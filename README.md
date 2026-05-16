@@ -2,7 +2,7 @@
 
 > A unified guide on how to use AI well, distilled from all official documentation by OpenAI and Anthropic.
 
-[中文版 / Chinese version](./README.md)
+[中文版 / Chinese version](./README.cn.md)
 
 This project integrates every core article on the topic of "how to use AI well" published by OpenAI and Anthropic across their official websites — organized by underlying principles rather than by company — into a single, systematic best-practices guide.
 
