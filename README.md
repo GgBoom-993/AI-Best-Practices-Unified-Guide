@@ -94,19 +94,6 @@ The result is a ~30,000-word integrated guide.
 
 ---
 
-## Contributing
-
-PRs and issues are welcome:
-
-- New documents published by either company that should be integrated
-- Corrections, additions, or better translations of existing content
-- Counter-examples or supplemental experience from the field
-- New prompt templates or production practices
-- Comparable content from other LLM vendors (Google, Mistral, etc.) for cross-reference
-
-Models change. This guide is maintained as a living document, not a one-shot artifact.
-
----
 
 ## License
 
