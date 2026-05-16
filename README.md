@@ -6,7 +6,7 @@
 
 This project integrates every core article on the topic of "how to use AI well" published by OpenAI and Anthropic across their official websites — organized by underlying principles rather than by company — into a single, systematic best-practices guide.
 
-📖 **[Read the full guide →](./AI-Best-Practices-Unified-Guide/AI_最佳实践_统一指南.md)** *(currently in Chinese; English translation in progress)*
+📖 **[Read the full guide →](./AI-Best-Practices-Unified-Guide/AI最佳实践统一指南.pdf)** *(currently in Chinese; English translation in progress)*
 
 ---
 
